@@ -95,8 +95,4 @@ The dataset was cleaned by:
 
 The analysis shows that Shark Tank India has experienced increasing average deal sizes across its seasons. Beauty/Fashion attracted the highest total investment, while Medical/Health achieved the highest deal success rate among industries with at least 20 pitches. The valuation analysis also indicates that successful startups often accepted deals at lower valuations than originally requested.
 
-## 👩‍💻 Author
 
-**Hansika Singh**
-
-Aspiring Data Analyst | BCA Student | Learning SQL, Python & Excel
